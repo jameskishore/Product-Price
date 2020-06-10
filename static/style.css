@@ -1,0 +1,8 @@
+body{
+background-color:teal}
+
+table#t01, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #f1f1c1;
+}
